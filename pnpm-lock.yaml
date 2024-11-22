@@ -1,0 +1,17 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  php-serialize:
+    specifier: ^5.0.1
+    version: 5.0.1
+
+packages:
+
+  /php-serialize@5.0.1:
+    resolution: {integrity: sha512-+uxULDruX7uwGZmC1HjcvQMg6APyK1wzWXnaRR0Vxb7Vk4YMn5/Chp9tm+ccNqmXOtfZ/oZVbR8GZnPnojltDw==}
+    engines: {node: '>= 8'}
+    dev: false
